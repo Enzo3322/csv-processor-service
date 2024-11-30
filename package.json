@@ -1,0 +1,16 @@
+{
+  "name": "csv-processor-service",
+  "version": "1.0.0",
+  "description": "Projeto de processamento de CSV utilizando Node.js, Express, React, RabbitMQ e PostgreSQL.",
+  "main": "createBigCsv.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@faker-js/faker": "^9.2.0"
+  }
+}
